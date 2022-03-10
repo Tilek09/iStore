@@ -1,0 +1,180 @@
+{
+  "products": [
+    {
+      "title": "Iphone 13 Pro Max",
+      "image": "https://pro100-online.ru/image/cache/catalog/13pro/104894_photos_0-700x500.jpeg",
+      "price": "1300",
+      "type": "iPhone",
+      "description": "Размеры: 78.1 x 160.8 x 7.65 мм, Вес: 240 г, SoC: Apple A15 Bionic, Оперативная память: 2750 МГц, Встроенная память: 128 ГБ, 256 ГБ, 512 ГБ, 1024 ГБ, Экран: 6.7 in, OLED, 1284 x 2778 пикселей, 24 бит, Аккумулятор: Li-Ion (Литий-ионный), Oперационная система: iOS 15.",
+      "id": 1
+    },
+    {
+      "title": "Iphone 13",
+      "image": "https://istore.kg/media/products/13-Blue.webp",
+      "price": 900,
+      "type": "iPhone",
+      "description": "Apple iPhone 13 смартфон 2021 года выпуска. Его размеры 146.7 x 71.5 x 7.7 и вес 174 г. Он оснащен Super Retina XDR OLED-дисплеем с размером 6.1\" дюйма. Разрешение составляет 1170 x 2532 пикселей, плотность пикселей 460 ppi. Для селфи и видеозвонков отвечает Двойная предна камера с 12 MP.",
+      "id": 3
+    },
+    {
+      "title": "iPhone 13 mini",
+      "image": "https://istore.kg/media/products/13-mini-pink_QTRfwxb.webp",
+      "price": 850,
+      "type": "iPhone",
+      "description": "Apple iPhone 13 mini смартфон 2021 года выпуска. Его размеры 131.5 x 64.2 x 7.7 и вес 141 г. Он оснащен Super Retina XDR OLED-дисплеем с размером 5.4\" дюйма. Разрешение составляет 1080 x 2340 пикселей, плотность пикселей 476 ppi. Для селфи и видеозвонков отвечает Двойная предна камера с 12 MP. ",
+      "id": 4
+    },
+    {
+      "title": "iPhone 12 Pro Max",
+      "image": "https://istore.kg/media/products/12-pro-max-pacific-blue.webp",
+      "price": 1150,
+      "type": "iPhone",
+      "description": "Apple iPhone 12 Pro Max смартфон 2020 года выпуска. Его размеры 160.8 x 78.1 x 7.4 и вес 228 г. Он оснащен Super Retina XDR OLED-дисплеем с размером 6.7\" дюйма. Разрешение составляет 1284 x 2778 пикселей, плотность пикселей 458 ppi. Для селфи и видеозвонков отвечает Двойная предна камера с 12 MP.",
+      "id": 5
+    },
+    {
+      "title": "iPhone 12",
+      "image": "https://istore.kg/media/products/12-Product-Red.webp",
+      "price": 790,
+      "type": "iPhone",
+      "description": "Apple iPhone 12 смартфон 2020 года выпуска. Его размеры 146.7 x 71.5 x 7.4 и вес 164 г. Он оснащен Super Retina XDR OLED-дисплеем с размером 6.1\" дюйма. Разрешение составляет 1170 x 2532 пикселей, плотность пикселей 460 ppi. Для селфи и видеозвонков отвечает Двойная предна камера с 12 MP.",
+      "id": 6
+    },
+    {
+      "title": "iPhone 12 mini",
+      "image": "https://istore.kg/media/products/12-mini-green_jJG9PNn.webp",
+      "price": 710,
+      "type": "iPhone",
+      "description": "Apple iPhone 12 mini смартфон 2020 года выпуска. Его размеры 131.5 x 64.2 x 7.4 и вес 135 г. Он оснащен Super Retina XDR OLED-дисплеем с размером 5.4\" дюйма. Разрешение составляет 1080 x 2340 пикселей, плотность пикселей 476 ppi. Для селфи и видеозвонков отвечает Двойная предна камера с 12 MP.",
+      "id": 7
+    },
+    {
+      "title": "MacBook Pro 16",
+      "image": "https://istore.kg/media/products/Pro-16-M1-SP-US-1_RGWcLBN.webp",
+      "price": 4100,
+      "type": "MacBook",
+      "description": "Технические характеристики MacBook Pro 16\": Габариты: 357,9x245,9x16,2 мм, 2 кг Дисплей: 16\", IPS, 3072×1920 Процессор: 6‑ядерный Intel Core i7 2,6 ГГц/8‑ядерный Intel Core i9 2,3 ГГц или 2,4 ГГц Видеокарта: AMD Radeon Pro 5300M с 4 ГБ GDDR6 или AMD Radeon Pro 5500M с 4/8 ГБ GDDR6 + Intel UHD Graphics 630 Память: 16/32/64 ГБ встроенной памяти DDR4 2666 МГц, 512 ГБ, 1/2/4/8 ТБ SSD ОС: macOS Catalina Батарея: 100 Вт×ч",
+      "id": 8
+    },
+    {
+      "title": "MacBook Pro 13",
+      "image": "https://istore.kg/media/products/Pro-13-Space-Gray-1_2SvcBkF.webp",
+      "price": 1400,
+      "type": "MacBook",
+      "description": "MacBook Pro 13\" (Late 2020). Дисплей 13,3'', 2560 x 1600 (60 Гц), IPS CPU. Apple M1 (4+4 ядра/потока, ≤3,2 ГГц) Оперативная память. LPDDR4X SDRAM, 4266 МТ/с, 8/16 Гбайт GPU Интегрированный, 8 ядер Накопитель. Apple SSD (NVMe, Apple Fabric) 256 – 2 048 Гбайт. Порты ввода-вывода 2 × USB 4 Type-C / Thunderbolt 3; 1 × mini jack Сеть. WiFi IEEE 802.11ax; Bluetooth 5.0. Емкость аккумулятора, Вт⋅ч 58,2 Масса, кг 1,4.",
+      "id": 9
+    },
+    {
+      "title": "MacBook Air 13",
+      "image": "https://istore.kg/media/products/air-13-8-core-gray_Mo1SS1h.webp",
+      "price": 1500,
+      "type": "MacBook",
+      "description": "Apple MacBook Air 13 (2012) Процессор. Intel Core i5-3317U: 1,7 ГГц (до 2,6 ГГц в режиме Turbo Boost); 3 Мбайт L2; два вычислительных ядра. Intel Core i5-3427U: 1,8 ГГц (до 2,8 ГГц в режиме Turbo Boost); 3 Мбайт L2; два вычислительных ядра Набор микросхем Intel QS77 (ID1E56) Графический контроллер. Intel HD 4000, встроен в процессор. Экран 11,6 дюйма, 1366х768; TN. Глянцевое покрытие, LED-подсветка (LG LP116WH4-TJA3) 13,3 дюйма, 1440х900; TN.",
+      "id": 10
+    },
+    {
+      "title": "iPad Pro 12.9",
+      "image": "https://istore.kg/media/products/iPad-Pro-12-9-WiFi-Silver_TwRGhKz.webp",
+      "price": 1300,
+      "type": "iPad",
+      "description": "Серия планшетов корпорации Apple, первый из которых был анонсирован 9 сентября 2015 года, представляющих собой совершенно новый вариант планшета iPad с самыми большими дисплеями в этом семействе - 9,7, 10,5 и 12,9 дюйма. iPad Pro 9.7 оборудован процессором Apple A9X, имеет 2 ГБ оперативной памяти, поддержку стилуса Apple Pencil и режима Split View в iOS 9, позволяющего запускать два приложения на экране одновременно. ",
+      "id": 11
+    },
+    {
+      "title": "iPad Air 10.9",
+      "image": "https://istore.kg/media/products/Air-4-WiFi-Sky-Blue.webp",
+      "price": 680,
+      "type": "iPad Air",
+      "description": "Серый: Общие: Операционная система — iPadOS. Экран: Тип экрана — TFT IPS, Разрешение — 2360x1640 Пикс, Диагональ — 10.9\". Процессор: Модель процессора — A14 Bionic. Память: Встроенная память — 64 ГБ. Коммуникации и связь: Wi-Fi — Есть. Камера: Разрешение камеры — 12 Мпикс, Фронтальная камера — 7 Мпикс. Планшет Apple iPad Air 10.9. Мощно. Ярко. Чудесно. Многое из того, что недоступно компьютеру, легко и волшебно делается на iPad Air.",
+      "id": 12
+    },
+    {
+      "title": "iPad mini 8.3",
+      "image": "https://istore.kg/media/products/iPad-mini-WiFi-Purple.webp",
+      "price": 590,
+      "type": "iPad",
+      "description": "Уменьшенная версия интернет-планшета iPad корпорации Apple. Планшет оснащён разъёмом Lightning. Он имеет такие же характеристики, как у iPad 2, включая и его разрешение дисплея. По сравнению с другими устройствами серии iPad, у iPad mini на момент выхода использовалась намного более узкая рамка слева и справа от экрана.",
+      "id": 13
+    },
+    {
+      "title": "iMac 24",
+      "image": "https://istore.kg/media/products/8-core-blue-1_XbXq493.webp",
+      "price": 2500,
+      "type": "iMac",
+      "description": "Чип Apple M1 8-ядерный процессор 8-ядерный графический процессор Накопитель 1 ТБ 16 ГБ объединённой памяти Дисплей Retina 4.5K с диагональю 24 дюйма Два порта Thunderbolt/USB 4 Два порта USB 3 Порт Gigabit Ethernet Клавиатура Magic Keyboard с Touch ID Magic Mouse",
+      "id": 14
+    },
+    {
+      "title": "Watch Series 7 with Stainless Steel Case",
+      "image": "https://istore.kg/media/products/stainless-graphite-41.webp",
+      "price": 950,
+      "type": "Apple Watch",
+      "description": "Год выпуска: 2021 Размеры: 41/45 мм Always On Display: Есть Процессор: S7 ОС: watchOS 8 Тактильный отклик Digital Crown: Да Встроенная память: 32 ГБ GPS: Есть NFC: Есть ЭКГ: Есть Измерение SpO2: Есть Компас: Есть Обнаружение падения: Есть Bluetooth: Bluetooth 5.0 Защита от пыли: IP6X Защита от воды: 5 АТМ",
+      "id": 15
+    },
+    {
+      "title": "Watch Series 6 Nike with Aluminum Case",
+      "image": "https://istore.kg/media/products/SE-Nike-40-GPS-Anthracite-Black.webp",
+      "price": 460,
+      "type": "Apple Watch",
+      "description": "Apple Watch Series 6 основные характеристики Размеры: 40 мм, 44 мм Время автономной работы: 18 часов Водонепроницаемость: до 50 метров Объём памяти: 36 ГБ Датчики: ЭКГ, SpO2, частота сердечных сокращений, высотомер",
+      "id": 16
+    },
+    {
+      "title": "Watch SE Nike with Aluminum Case",
+      "image": "https://istore.kg/media/products/SE-Nike-40-GPS-Pure-Platinum-Black_51dX1Ob.webp",
+      "price": 360,
+      "type": "Apple Watch",
+      "description": "Форм-фактор прямоугольник со сглаженными углами Размеры 40/44 мм Масса 20–39 г Материал алюминий. Операционная система watchOS 7 (самая последняя - 7.5) Процессор S5 Флеш-память 32 ГБ Карта памяти отсутствует. Аккумулятор литий‑ионный аккумулятор. Экран 324×394 (40 мм) 368×448 (44 мм). Передняя камера используется камера смартфона (8/12 Мп). Прочее компас, высотомер, пульсоксиметр, Apple Pay, GymKit.",
+      "id": 17
+    },
+    {
+      "title": "AirPods 2",
+      "image": "https://istore.kg/media/products/AirPods-Wireless-1.webp",
+      "price": 170,
+      "type": "AirPods",
+      "description": "Размер футляра: 44,3x21,3x53,5 мм; Вес: наушники — 8 гр, футляр — 38 гр; Особенности: быстрое подключение и настройка, достаточно сказать «Привет, Сири» и помощник ответит Вам, воспроизведение или переключение на следующий трек осуществляется двойным касанием, быстрая подзарядка, высокое качество звучания.",
+      "id": 18
+    },
+    {
+      "title": "AirPods Pro",
+      "image": "https://istore.kg/media/products/AirPods-Pro-1.webp",
+      "price": 230,
+      "type": "AirPods",
+      "description": "AirPods Pro — уникальные наушники с технологией активного шумоподавления, которые непрерывно оптимизируют звучание с учётом формы вашего уха и положения вкладышей. Они отлично заглушают внешние шумы, поэтому вы можете полностью погрузиться в музыку. Наружный микрофон улавливает внешние шумы.",
+      "id": 19
+    },
+    {
+      "title": "AirPods Max",
+      "image": "https://istore.kg/media/products/AirPods-Max-Space-Gray.webp",
+      "price": 500,
+      "type": "AirPods",
+      "description": "В AirPods Max установлен 40-миллиметровый динамический драйвер, разработанный Apple. За вычислительные операции отвечают два чипа Apple H1 (по одному в каждом наушнике). В каждом чипе — 10 ядер для обработки аудио, способных выполнять 9 миллиардов операций в секунду. Чипы обеспечивают работу таких функций, как адаптивный эквалайзер.",
+      "id": 20
+    },
+    {
+      "title": "Apple TV 4K ",
+      "image": "https://istore.kg/media/products/apple-tv-4k-5th-1_2xQxn0L.webp",
+      "price": 230,
+      "type": "Гаджеты",
+      "description": "Размеры и вес 98 мм 98 мм 35 мм. Ёмкость 32 ГБ 2. Siri Remote. Беспроводная технология Bluetooth 5.0. Разъёмы и интерфейсы Встроенный источник питания HDMI Gigabit Ethernet. Процессор Процессор A12 Bionic. Системные требования. Форматы видео. Форматы аудио",
+      "id": 21
+    },
+    {
+      "title": "GoPro HERO10 Black",
+      "image": "https://istore.kg/media/products/GoPro-HERO-10-1.webp",
+      "price": 530,
+      "type": "Гаджеты",
+      "description": "Благодаря оснащению новым процессором GP2 и камерой 23 МП новая экшн-камера GoPro HERO10 позволяет снимать ролики в разрешении 5,3K с 60 fps, 4K со 120 fps и 2,7K с 240 fps, а также вести прямую трансляцию в Full HD.",
+      "id": 22
+    },
+    {
+      "title": "DJI Phantom 4 Advanced",
+      "image": "https://istore.kg/media/products/phantom-4-advanced.webp",
+      "price": 1300,
+      "type": "Гаджеты",
+      "description": "камера: с камерой, максимальное разрешение видеосъемки: 2160p, максимальное время полета: 30 мин., функции: вид от первого лица (FPV), Active Track, Draw, Point of Interest, TapFly, автоматический взлет и посадка, возвращение в точку взлета, интеллектуальный контроль ориентации.",
+      "id": 23
+    }
+  ]
+}
